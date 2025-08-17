@@ -1,0 +1,21 @@
+
+
+# Python
+_pycache_/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# VSCode settings
+.vscode/
+
+# Database files
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
