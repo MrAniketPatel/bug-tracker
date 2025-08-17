@@ -8,6 +8,7 @@ _pycache_/
 
 # Virtual environment
 venv/
+backend/venv/
 .env/
 
 # VSCode settings
